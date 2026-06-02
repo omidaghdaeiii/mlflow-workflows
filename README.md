@@ -24,6 +24,7 @@ The notebooks address these issues by introducing MLflow concepts incrementally 
 mlflow-workflows/
     notebooks/
         01_mlflow_lifecycle_and_experimentation_foundations.ipynb
+        02_mlflow_tracking_runs_metrics_and_artifacts.ipynb
 ```
 
 Each notebook is self-contained, but designed to be followed sequentially.
